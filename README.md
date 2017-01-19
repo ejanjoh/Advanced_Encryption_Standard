@@ -6,7 +6,7 @@ This is an implementation of the Advanced Encryption Standard (aka Rijndael). Th
 * __AES-192__
 * __AES-256__
 
-They are all implemented in this code (Rijndael have originaly have the key lengths 160 and 224 specified).
+They are all implemented in this code (Rijndael originally specified the key lengths 160 and 224 as well).
 
 ### Intro<sup>(1)</sup>
 
@@ -26,7 +26,7 @@ Agency (NSA) for top secret information when used in an NSA approved cryptograph
 The name Rijndael (Dutch pronunciation: [ˈrɛindaːl]) is a play on the names of the two inventors (Joan Daemen and Vincent Rijmen).
 ___
 
-(1) Intro copied from Wikipedia, the free encyclopedia
+(1) Intro copied from Wikipedia, the free encyclopedia  
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard  
 Wikipedia offer a more detailed description and with references.
 
